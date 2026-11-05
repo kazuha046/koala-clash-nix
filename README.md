@@ -30,7 +30,7 @@ Add Koala Clash to the `inputs` section of your NixOS flake:
 inputs = {
   # other inputs...
 
-  koala-clash.url = "github:endotrizine/koala-clash-nix";
+  koala-clash.url = "github:kazuha046/koala-clash-nix";
 };
 ````
 
