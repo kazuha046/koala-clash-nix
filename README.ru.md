@@ -30,7 +30,7 @@
 inputs = {
   # другие inputs...
 
-  koala-clash.url = "github:endotrizine/koala-clash-nix";
+  koala-clash.url = "github:kazuha046/koala-clash-nix";
 };
 ````
 
